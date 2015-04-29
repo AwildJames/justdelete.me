@@ -2364,6 +2364,16 @@
     },
 
     {
+        "name": "Kongregate",
+        "url": "http://www.kongregate.com/feedbacks/new",
+        "difficulty": "hard",
+        "notes": "You can ask for your account to be perma-banned by contacting them through the email that the account is linked to at support@kongregate.com",
+        "domains": [
+            "kongregate.com"
+        ]
+    },
+
+    {
         "name": "Kotaku (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
